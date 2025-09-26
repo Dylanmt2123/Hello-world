@@ -2,7 +2,7 @@
 My first repository
 
 ### Table of contents  
-**hello world   
+__ hello world   
 * * my first repository
- 
-  *** This is my first entry
+
+*** This is my first entry
